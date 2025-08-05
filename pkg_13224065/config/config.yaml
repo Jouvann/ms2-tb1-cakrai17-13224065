@@ -1,0 +1,14 @@
+hubung_node:
+  publish_rate: 5.0    # Dalam Satuan Hz
+  enabled : true       # Aktifkan Node Hubung
+  log_verbose : true   # Aktifkan Log Verbose untuk Debugging
+
+  linear_multipler: 1.0  # Pengali untuk Kecepatan Linear
+  angular_multipler: 1.0 # Pengali untuk Kecepatan Angular
+
+  autonomous_vel_topic: '/autonomous_vel' # Topik untuk Kecepatan Otonom
+  joy_vel_topic: '/joy_vel'               # Topik untuk Kecepatan Joystick
+  keyboard_vel_topic: '/keyboard_vel'     # Topik untuk Kecepatan Keyboard
+  
+  cmd_type_topic: '/cmd_type'             # Topik untuk Tipe Perintah  
+  cmd_vel_topic: '/cmd_vel'               # Topik untuk Kecepatan Perintah
