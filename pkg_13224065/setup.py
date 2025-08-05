@@ -20,6 +20,7 @@ setup(
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
+            'node_hubung = pkg_13224065.node_hubung:main',
         ],
     },
 )

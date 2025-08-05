@@ -1,0 +1,35 @@
+running egg_info
+creating build/pkg_13224065/pkg_13224065.egg-info
+writing build/pkg_13224065/pkg_13224065.egg-info/PKG-INFO
+writing dependency_links to build/pkg_13224065/pkg_13224065.egg-info/dependency_links.txt
+writing entry points to build/pkg_13224065/pkg_13224065.egg-info/entry_points.txt
+writing requirements to build/pkg_13224065/pkg_13224065.egg-info/requires.txt
+writing top-level names to build/pkg_13224065/pkg_13224065.egg-info/top_level.txt
+writing manifest file 'build/pkg_13224065/pkg_13224065.egg-info/SOURCES.txt'
+reading manifest file 'build/pkg_13224065/pkg_13224065.egg-info/SOURCES.txt'
+writing manifest file 'build/pkg_13224065/pkg_13224065.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build
+creating /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build/lib
+creating /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build/lib/pkg_13224065
+copying pkg_13224065/node_hubung.py -> /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build/lib/pkg_13224065
+copying pkg_13224065/__init__.py -> /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build/lib/pkg_13224065
+running install
+running install_lib
+creating /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/python3.10/site-packages/pkg_13224065
+copying /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build/lib/pkg_13224065/node_hubung.py -> /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/python3.10/site-packages/pkg_13224065
+copying /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build/lib/pkg_13224065/__init__.py -> /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/python3.10/site-packages/pkg_13224065
+byte-compiling /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/python3.10/site-packages/pkg_13224065/node_hubung.py to node_hubung.cpython-310.pyc
+byte-compiling /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/python3.10/site-packages/pkg_13224065/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/share/ament_index
+creating /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/share/ament_index/resource_index
+creating /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/share/ament_index/resource_index/packages
+copying resource/pkg_13224065 -> /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/share/ament_index/resource_index/packages
+copying package.xml -> /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/share/pkg_13224065
+running install_egg_info
+Copying build/pkg_13224065/pkg_13224065.egg-info to /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/python3.10/site-packages/pkg_13224065-0.0.0-py3.10.egg-info
+running install_scripts
+Installing node_hubung script to /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/pkg_13224065
+writing list of installed files to '/home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/install.log'

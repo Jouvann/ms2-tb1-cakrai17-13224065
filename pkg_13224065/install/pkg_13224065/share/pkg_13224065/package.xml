@@ -3,14 +3,12 @@
 <package format="3">
   <name>pkg_13224065</name>
   <version>0.0.0</version>
-  <description>Sebuah Node Untuk Menghubungkan Data Topik autonomous_vel, joy_vel, keyboard_vel. Menuju Topik cmd_type dan cmd_vel</description>
-  <maintainer email="jouvan294@gmail.com">jouvan</maintainer>
-  <license>TODO: License declaration(IDK DIISI APA)</license>
+  <description>TODO: Package description</description>
+  <maintainer email="jouvan@todo.todo">jouvan</maintainer>
+  <license>TODO: License declaration</license>
 
   <depend>rclpy</depend>
   <depend>std_msgs</depend>
-  <depend>geometry_msgs</depend>
-
 
   <test_depend>ament_copyright</test_depend>
   <test_depend>ament_flake8</test_depend>

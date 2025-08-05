@@ -1,0 +1,37 @@
+[0.899s] Invoking command in '/home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065': PYTHONPATH=/home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/pkg_13224065 build --build-base /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build install --record /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/install.log --single-version-externally-managed install_data
+[1.134s] running egg_info
+[1.134s] creating build/pkg_13224065/pkg_13224065.egg-info
+[1.134s] writing build/pkg_13224065/pkg_13224065.egg-info/PKG-INFO
+[1.135s] writing dependency_links to build/pkg_13224065/pkg_13224065.egg-info/dependency_links.txt
+[1.135s] writing entry points to build/pkg_13224065/pkg_13224065.egg-info/entry_points.txt
+[1.136s] writing requirements to build/pkg_13224065/pkg_13224065.egg-info/requires.txt
+[1.136s] writing top-level names to build/pkg_13224065/pkg_13224065.egg-info/top_level.txt
+[1.136s] writing manifest file 'build/pkg_13224065/pkg_13224065.egg-info/SOURCES.txt'
+[1.138s] reading manifest file 'build/pkg_13224065/pkg_13224065.egg-info/SOURCES.txt'
+[1.139s] writing manifest file 'build/pkg_13224065/pkg_13224065.egg-info/SOURCES.txt'
+[1.139s] running build
+[1.140s] running build_py
+[1.140s] creating /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build
+[1.140s] creating /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build/lib
+[1.140s] creating /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build/lib/pkg_13224065
+[1.140s] copying pkg_13224065/node_hubung.py -> /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build/lib/pkg_13224065
+[1.140s] copying pkg_13224065/__init__.py -> /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build/lib/pkg_13224065
+[1.140s] running install
+[1.141s] running install_lib
+[1.141s] creating /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/python3.10/site-packages/pkg_13224065
+[1.141s] copying /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build/lib/pkg_13224065/node_hubung.py -> /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/python3.10/site-packages/pkg_13224065
+[1.142s] copying /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build/lib/pkg_13224065/__init__.py -> /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/python3.10/site-packages/pkg_13224065
+[1.142s] byte-compiling /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/python3.10/site-packages/pkg_13224065/node_hubung.py to node_hubung.cpython-310.pyc
+[1.143s] byte-compiling /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/python3.10/site-packages/pkg_13224065/__init__.py to __init__.cpython-310.pyc
+[1.143s] running install_data
+[1.144s] creating /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/share/ament_index
+[1.144s] creating /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/share/ament_index/resource_index
+[1.144s] creating /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/share/ament_index/resource_index/packages
+[1.144s] copying resource/pkg_13224065 -> /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/share/ament_index/resource_index/packages
+[1.145s] copying package.xml -> /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/share/pkg_13224065
+[1.145s] running install_egg_info
+[1.146s] Copying build/pkg_13224065/pkg_13224065.egg-info to /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/python3.10/site-packages/pkg_13224065-0.0.0-py3.10.egg-info
+[1.148s] running install_scripts
+[1.171s] Installing node_hubung script to /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/pkg_13224065
+[1.172s] writing list of installed files to '/home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/install.log'
+[1.205s] Invoked command in '/home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065' returned '0': PYTHONPATH=/home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/install/pkg_13224065/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/pkg_13224065 build --build-base /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/build install --record /home/jouvan/ros2_ws/src/ms2-tb1-cakrai17-13224065/pkg_13224065/build/pkg_13224065/install.log --single-version-externally-managed install_data

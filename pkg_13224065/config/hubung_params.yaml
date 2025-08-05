@@ -1,0 +1,13 @@
+hubung_node:
+  publish_rate: 5.0
+  frame_id: 'base_link'
+  enabled : true
+  log_verbose : true
+
+  linear_multipler: 2.0
+  angular_multipler: 0.5
+  autonomous_vel_topic: '/autonomous_vel'
+  joy_vel_topic: '/joy_vel'
+  keyboard_vel_topic: '/keyboard_vel'
+  cmd_type_topic: '/cmd_type'
+  cmd_vel_topic: '/cmd_vel' 
