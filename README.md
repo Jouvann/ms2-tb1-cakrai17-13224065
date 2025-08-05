@@ -12,7 +12,7 @@ Node ini ditulis menggunakan Python dan ROS 2 Humble.
 
 ## 🧠 Diagram Alur Node
 
-![Diagram Node](diagram.png)
+![Diagram Node](Diagram Node dan Topik.png) 
 
 ## ⚙️ Cara Kerja Node
 
